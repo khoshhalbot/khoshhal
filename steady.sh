@@ -1,4 +1,4 @@
---by @Hextor_ch
+
 
 OK=0
 BAD=0
@@ -7,8 +7,8 @@ NONVOLUNTARYCHECK=0
 VOLUNTARY=1
 VOLUNTARYCHECK=0
 I=1
-BOT = Hextor 
-RELOADTIME = 15
+BOT = testing 
+RELOADTIME = 1
 
 
 function tmux_mode {
