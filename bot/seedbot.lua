@@ -220,7 +220,7 @@ function create_config( )
     "set",
     "get",
     "broadcast",
-    "plugin",
+    "test",
     "download_media",
     "invite",
     "all",
