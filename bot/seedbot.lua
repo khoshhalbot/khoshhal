@@ -220,12 +220,12 @@ function create_config( )
     "set",
     "get",
     "broadcast",
+    "plugin",
     "download_media",
     "invite",
     "all",
     "leave_ban",
-    "admin",
-    "plugin"
+    "admin"
     },
     sudo_users = {95205943,94459984,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
